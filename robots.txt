@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://team-sukses77.github.io/news/sitemap.xml
